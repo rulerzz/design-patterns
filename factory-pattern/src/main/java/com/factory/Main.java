@@ -1,6 +1,6 @@
 package com.factory;
-import com.factory.classes.*;
-import com.factory.interfaces.*;
+import classes.*;
+import interfaces.*;
 
 public class Main {
     public static void main(String[] args) {

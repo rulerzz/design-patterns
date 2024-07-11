@@ -1,5 +1,5 @@
-package com.factory.interfaces;
-import com.factory.interfaces.Shape;
+package interfaces;
+import interfaces.Shape;
 
 public interface ShapeFactory {
     Shape createShape();

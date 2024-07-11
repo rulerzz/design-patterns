@@ -1,7 +1,7 @@
-package com.factory.classes;
-import com.factory.classes.Rectangle;
-import com.factory.interfaces.Shape;
-import com.factory.interfaces.ShapeFactory;
+package classes;
+import classes.Rectangle;
+import interfaces.Shape;
+import interfaces.ShapeFactory;
 
 public class RectangleFactory implements ShapeFactory {
     @Override

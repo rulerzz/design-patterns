@@ -1,7 +1,7 @@
-package com.factory.classes;
-import com.factory.classes.Square;
-import com.factory.interfaces.Shape;
-import com.factory.interfaces.ShapeFactory;
+package classes;
+import classes.Square;
+import interfaces.Shape;
+import interfaces.ShapeFactory;
 
 public class SquareFactory implements ShapeFactory {
     @Override

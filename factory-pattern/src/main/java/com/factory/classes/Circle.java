@@ -1,5 +1,5 @@
-package com.factory.classes;
-import com.factory.interfaces.Shape; 
+package classes;
+import interfaces.Shape; 
 
 public class Circle implements Shape {
     @Override

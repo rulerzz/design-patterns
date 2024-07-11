@@ -1,4 +1,4 @@
-package com.factory.interfaces;
+package interfaces;
 
 public interface Shape {
     void draw();

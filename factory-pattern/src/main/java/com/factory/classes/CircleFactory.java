@@ -1,7 +1,7 @@
-package com.factory.classes;
-import com.factory.classes.Circle;
-import com.factory.interfaces.Shape;
-import com.factory.interfaces.ShapeFactory;
+package classes;
+import classes.Circle;
+import interfaces.Shape;
+import interfaces.ShapeFactory;
 
 public class CircleFactory implements ShapeFactory {
     @Override
