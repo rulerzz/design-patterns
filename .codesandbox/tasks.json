@@ -6,7 +6,7 @@
   "tasks": {
     "s": {
       "name": "s",
-      "command": "sudo apt upgrade -y",
+      "command": "sudo apt-get upgrade -y",
       "runAtStart": true
     }
   }
